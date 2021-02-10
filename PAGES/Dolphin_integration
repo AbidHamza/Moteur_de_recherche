@@ -1,0 +1,72 @@
+{{Voir homonymes|Smash (homonymie)}}
+{{Infobox Société
+ | couleur boîte             = <!-- pour adapter la couleur de la boîte au logo -->
+ | nom                       = Dolphin Integration
+ | logo                      = Logo DI Color 72dpi.png
+ | logo 2                    = <!-- example2.svg (les deux logos s'afficheront côte à côte) -->
+ | slogan                    = 
+ | forme juridique           = SA à conseil d'administration
+ | action                    = 
+ | date de création          = 28 mai 1985
+ | date de disparition       = 16 juillet 2019 : liquidation judiciaire
+ | dates-clés                = 
+ | fondateur                 = 
+ | personnages-clés          = <!-- personnages historiques seulement -->
+ | drapeau                   = <!-- placer à non pour ne pas afficher le drapeau devant la ville -->
+ | siège (ville)             = [[Meylan]]
+ | siège (pays)              = France<!-- ne pas wikifier le nom du pays -->
+ | direction actuelle        = <!-- le CEO ou PDG suffit -->
+ | secteurs d'activités      = 
+ | produits                  = 
+ | société mère              = 
+ | société sœur              = 
+ | filiales                  = 
+ | actionnaires              = [[Soitec]], [[MBDA]] (depuis 2018)
+ | sociétaires               = 
+ | effectif                  = 172 au 31 mars 2017
+ | nom identifiant           = SIREN
+ | identifiant               = 331 951 939
+ | chiffre d'affaires        = 16 120 800 € au 31 mars 2017
+ | évolution du CA           = 
+ | somme du bilan (banques)  = <!-- les banques n’ont pas de chiffre d’affaires -->
+ | primes brut (assurances)  = <!-- l’encaissement brut des primes pour les assurances -->
+ | résultat net              = -1 133 900 € au 3 mars 2017
+ | évolution du résultat net = 
+ | fonds propres             = 
+ | dette                     = 
+ | capitalisation boursière  = 
+ | site web                  = [https://www.dolphin-integration.com www.dolphin-integration.com]
+ | upright                   = 
+ | upright 2                 = 
+ | légende                   = <!-- légende du logo  -->
+}}
+'''Dolphin Integration''' est une société de conception de circuits intégrés, fondée le {{date-|1|mai|1985}} avec du [[capital risque]]<ref>[http://www.vipress.net/dolphin-integration-celebre-ses-30-ans-et-change-de-direction-operationnelle/ vipress.net du 9 septembre 2015, Dolphin Integration célèbre ses 30 ans et change de direction opérationnelle]</ref>. Elle est basée sur la zone d'[[Inovallée]] de [[Meylan]] dans la région grenobloise.
+
+== Histoire ==
+Dolphin Intégration est une entreprise de conception de circuits intégrés<ref>[http://votreargent.lexpress.fr/bourse-de-paris/dolphin-integration-capacite-d-autofinancement-maintenue_1655890.html votreargent.lexpress.fr du 26 février 2015, Dolphin Integration: capacité d'autofinancement maintenue.]</ref>, créée en 1985, exportatrice de circuits intégrés et de composants dits virtuels analogiques et numériques pour fabrication à grand volume. Le catalogue inclut des microprocesseurs, des bibliothèques de cellules standard et de générateurs de mémoires embarquées, des composants convertisseurs pour la mesure et pour le traitement du son de haute résolution, avec leurs solutions de CAO irremplaçables (Missing EDA Links) dans lesquels un simulateur mixte est nommé [[SMASH]]. Pour ses trente ans d'existence, le conseil d’administration de Dolphin Integration a séparé les fonctions de président et de directeur général en créant ce dernier poste<ref>[https://www.abcbourse.com/marches/dolphin-integration-nomme-un-directeur-general_336435_ALDOLp.aspx abcbourse du 4 septembre 2015, Dolphin Intégration: nomme un directeur général.]</ref>.
+
+Elle emploie, en 2018, 155 personnes, y compris 130 ingénieurs de conception électronique. Au cours de l’année fiscale close le 31 mars 2018, la société a réalisé un chiffre d’affaires de 17 millions d’euros.
+
+Placé en [[redressement judiciaire]] le 24 juillet 2018, les actifs sont repris par une [[co-entreprise]] créée par [[Soitec]] et [[MBDA]] - détenue respectivement à 60% et 40% -<ref>https://www.soitec.com/fr/investisseurs/annonces-financieres/soitec-et-mbda-reprennent-les-actifs-de-dolphin-integration</ref>.
+
+Le 16 juillet 2019, elle est placée en liquidation judiciaire<ref>{{Lien web |langue= |titre=Dolphin Integration (liquidation) |url=https://www.societe.com/societe/dolphin-integration-331951939.html |site=www.societe.com |périodique= |date= |consulté le=2019-08-02 }}</ref>{{,}}<ref>{{Lien web |langue=fr |titre=Dolphin Integration : en liquidation judiciaire |url=https://www.boursedirect.fr/fr/actualites/categorie/divers/dolphin-integration-en-liquidation-judiciaire-boursier-c88ec6260037a3bf57a373ef81f7091a01ff830c |site=Bourse Direct |consulté le=2019-08-02 }}</ref>.
+
+== Exportations ==
+En 2015, le magazine ''[[L'Express]]'' classe la société à la quatre-vingt-douzième place des entreprises françaises réalisant plus de la moitié de leur [[chiffre d'affaires]] à l'international, avec un taux d'exportation de 57,2 % réalisé par ses 190 salariés<ref>[http://lentreprise.lexpress.fr/international-export/classement-les-100-pme-et-eti-francaises-championnes-a-l-international-en-2015_1696616.html lentreprise.fr du 6 juillet 2015, CLASSEMENT. Le top 100 des PME et ETI françaises à l'international en 2015.]</ref>. Les principales destinations des produits étant Taiwan, la Finlande, les États-Unis, la Chine et la Corée. La même année, Dolphin Intégration est récompensée pour la seconde année consécutive par la plateforme d'innovation de la [[Taiwan Semiconductor Manufacturing Company]]<ref>[http://www.design-reuse.com/news/38477/dolphin-integration-tsmc-oip-2015-partner-of-the-year-award.html? design-reuse.com du 19 octobre 2015, Dolphin Integration receives TSMC's Open Innovation Platform 2015 Partner of the Year Award for Specialty IP.] {{en}}</ref>.
+
+== Smash ==
+Smash est un logiciel de simulation. Il fournit un environnement de simulation et débogage pour les designs en [[application specific integrated circuit|circuit intégré spécialisé]] et en [[circuit logique programmable]] avec support de plusieurs langages de description, dont le [[SPICE (logiciel)|SPICE]], le [[VHDL]], le [[VHDL-AMS]], le [[Verilog]], le [[Verilog-A]], le [[Verilog-AMS]] et le [[Property Specification Language|PSL]].
+
+== Notes et références ==
+{{Références}}
+
+== Lien externe ==
+*[https://www.dolphin-integration.com Site officiel]
+
+{{Portail|Informatique|électricité et électronique|Grenoble}}
+
+[[Catégorie:Entreprise d'électronique ayant son siège en France]]
+[[Catégorie:Entreprise informatique ayant son siège en France]]
+[[Catégorie:Entreprise ayant son siège à Grenoble]]
+[[Catégorie:Recherche à Grenoble]]
+[[Catégorie:Entreprise française disparue]]

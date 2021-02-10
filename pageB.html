@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>&#127467;&#127479;Resultat</title>
+	<style type="text/css">
+	
+		span{
+			font-family: Georgia;
+			font-weight: bold;
+			font-size: 20px;
+			text-shadow:#f3f3f3 1px 1px 0px, #b2b2b2 1px 2px 0;
+			color: deepskyblue;	
+		}
+
+		i{
+			color:orange;
+		}
+
+		#text{
+			height:30px;
+			border:1px solid grey;
+			border-radius: 5px;
+			width:50%; 
+			text-align:center;
+		}
+
+		#submit{
+			  background-color: #4CAF50;
+  			  border: none;
+  			  color: white;
+  	          padding: 7px 7px;
+              text-decoration: none;
+              margin: 1px 1px;
+              cursor: pointer;
+              border-radius: 5px;
+		}
+
+		.recherche{
+			width:100%; 
+			position: absolute;
+			top: 5%;
+			left: 50%;
+			-webkit-transform: translate(-50%, -50%);
+			-moz-transform: translate(-50%, -50%);
+		}
+
+		#resultat{
+			margin-left:20px;
+		}
+
+		p{
+			font-size:small;
+		}
+
+		body{
+			background-color: lightyellow;
+		}
+
+		</style>
+
+
+</head>
+<body>
+	<div class="all">
+	<form method="post" action="" class="recherche">
+		&#127467;&#127479;  Aboogle &#127467;&#127479;
+		 <input id="critere"  type="text" name="cherche" placeholder="rechercher" value={{result.cherche}}>
+		 <input id="submitts" onclick="recherche()" type="button" value=" &#128269  Recherche Aboogle"> 
+	</div>
+	</form>
+	<br><br>
+	</div>
+	</br>
+	</br>
+	</br>
+	<hr>
+	<div id="resultat">
+		<h5>vous êtes en train de chercher : 
+			<span  id="itemRechercher" style="color:red;text-decoration:underline">
+			</span>
+		</h5>
+		<p><span id="legnth"></span> résultats ont été trouvés</p>
+
+	</div>
+	
+	<ul id="resultats"></ul>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>     
+<script type="text/javascript">
+	document.addEventListener('DOMContentLoaded', function() {recherche();});
+
+	function recherche() {
+         let critere = $("#critere").val();
+         let res = critere.split(" ");
+         console.log("Dans recherche() avec "+critere);
+         $("#resultats").html("");
+          $("#legnth").html("");
+          $("#itemRechercher").html("");
+          var som=0;
+        for(let rech in res){
+        	if(res[rech]!=""){
+	         $.getJSON("http://localhost:5000/recherche/"+res[rech], function(reponses) {
+	         	let html="<br>"+res[rech]+": "+parseInt(reponses.length)+ "<hr> <br>";
+	             for (let reponse of reponses) {
+	                 let url = "https://fr.wikipedia.org/w/index.php?title="+reponse[0];
+	                  html+= "<li>"
+	                 html += "<a href='"+url+"'>"+reponse[0]+"</a> : "+reponse[1];
+	                 html += "</li> ";
+
+	             }
+
+	            som=som+parseInt(reponses.length);
+	      
+	  			 $("#resultats").append(html);
+	            $("#legnth").html(som);
+	
+
+	         });
+	     }
+
+	         $("#legnth").html(som);
+	    }
+	    
+	    
+	    $("#itemRechercher").append(critere);
+
+
+
+     }
+</script>
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

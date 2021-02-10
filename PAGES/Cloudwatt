@@ -1,0 +1,130 @@
+{{Infobox Société
+ | couleur boîte             = F57F1E
+ | nom                       = Cloudwatt
+ | logo                      = Logo cloudwatt.png
+ | upright                   = 1
+ | légende                   = <!-- légende du logo  -->
+ | date de création          = [[2012]]
+ | date de disparition       = 2020
+ | direction actuelle        = Stefan Kanis - Directeur des activités cloud d’Orange Business Services SA
+ | siège (ville)             = 1, place des Droits de l’Homme – 93210 La Plaine-Saint-Denis
+ | siège (pays)              = France
+ | actionnaire               = [[Orange (entreprise)|Orange]]
+ | secteurs d'activités      = Services informatiques
+ | site web                  = [https://www.cloudwatt.com cloudwatt.com]
+}}
+
+'''Cloudwatt''' était une offre de [[Cloud computing|cloud]] public de type [[Infrastructure as a service|IaaS]], basée sur [[OpenStack]] avec OpenContrail de [[Juniper Networks]]<ref>{{Article |auteur1=Alex Scroxton |langue=en |titre=Cloudwatt deploys SDN to orchestrate public cloud service |périodique=Computer Weekly |lire en ligne=https://www.computerweekly.com/news/2240225580/Cloudwatt-deploys-SDN-to-orchestrate-public-cloud-service |consulté le=19 octobre 2020 |date=28 July 2014 |extrait=The Paris-based business picked Juniper Networks’ OpenContrail – an open source project initiated by the network supplier in autumn 2013 – to improve network operation efficiency and safeguard data sovereignty}}</ref>, d'[[Orange Business Services]] proposant des ressources d'hébergement, de calcul et de stockage à la demande. Cloudwatt propose des prestations de stockage en ligne des données, de machines virtuelles et de réseaux virtuels selon le modèle [[Infrastructure_as_a_service|IaaS]] (ou Infrastructure en tant que service).
+
+Cette offre s’adressait aux acteurs professionnels de l’informatique et du numérique, aux entreprises et aux organismes publics.
+
+Fin juillet 2019, la plate-forme annonce à ses client la cessation de son activité, prévue pour le 31 Janvier 2020<ref>{{Lien web |langue=fr |titre=Cloudwatt : arrêt définitif de service en février 2020 - Le Monde Informatique |url=https://www.lemondeinformatique.fr/actualites/lire-cloudwatt-arret-definitif-de-service-en-fevrier-2020-76055.html |site=LeMondeInformatique |consulté le=2019-08-06 }}</ref>.
+
+== Historique ==
+=== Le projet Andromède issu du Grand Emprunt ===
+Le lancement de Cloudwatt entre dans le cadre du projet [[Andromède (cloud)|Andromède]]<ref>« [http://www.zdnet.fr/actualites/cloud-andromede-orange-et-thales-se-felicitent-et-se-disent-prets-a-demarrer-39770969.htm Cloud Andromède : Orange et Thales se félicitent et se disent prêts à démarrer] », ''ZDnet'', 20 avril 2012, Christophe Auffray</ref> initié en 2009 dans l’objectif de donner plus de chances à la France d’exister sur le marché du [[cloud computing]]. Le [[Grand_emprunt_de_la_France_en_2010|Grand Emprunt]] a été le déclencheur et le coup de pouce pour avancer et initier le projet. La terminologie forgée par les médias pour cette initiative alors unique en Europe a été « cloud souverain »<ref>« [http://www.franceinfo.fr/high-tech/nouveau-monde/la-france-veut-son-cloud-souverain-586813-2012-04-16 La France veut son "cloud souverain"] », ''France Info'', 16 avril 2012, Jérome Colombain</ref>. Le but était de donner aux professionnels, comme aux particuliers, l’accès à des solutions sécurisées de stockage en ligne des données et de machines virtuelles, localisées sur le sol français dans un premier temps et européen par la suite.
+
+Le gouvernement au travers du FIS (Fond d’Initiative Stratégique) a fait le choix de deux acteurs chacun doté de 225 millions d’euros : Cloudwatt d’une part (avec Orange, la [[Caisse des dépôts et consignations]] (CDC) et [[Thales]] comme actionnaires) et [[Numergy]] d’autre part ([[SFR]], la CDC et [[Bull (entreprise)|Bull]]){{Référence nécessaire||date=4 septembre 2020}}.
+
+=== La création de Cloudwatt ===
+L’entreprise Cloudwatt a été créée le 6 septembre 2012 par [[Orange (entreprise)|Orange]] et [[Thales]] dans le cadre du projet [[Andromède (cloud)|Andromède]] de cloud [[Souveraineté numérique|souverain]]<ref>« [http://www.lemondeinformatique.fr/actualites/lire-cloud-souverain-orange-et-thales-lancent-cloudwatt-50317.html Cloud souverain : Orange et Thalès lancent Cloudwatt] », ''Le Monde Diplomatique'', 6 septembre 2012, Jacques Cheminat</ref>. Le 2 octobre 2012, [[Fleur Pellerin]], ministre déléguée chargée des PME, de l’Innovation et de l’[[Économie numérique]] participe à la conférence de presse de Cloudwatt. Elle précise l’engagement du gouvernement en matière de cloud computing, technologie qu’elle qualifie d’« ''enjeu majeur pour la compétitivité des entreprises'' » et qu’elle compare à « ''une force au moins aussi égale à celle d’Internet'' »<ref>« [http://www.usinenouvelle.com/article/le-gouvernement-soutiendra-le-cloud-computing-affirme-fleur-pellerin.N183132 "Le gouvernement soutiendra le cloud computing", affirme Fleur Pellerin] », ''L’Usine Nouvelle'', 2 octobre 2012, Rhida Loukil</ref>.
+
+Cloudwatt met en avant son choix d’être parti d’une page blanche pour développer ses offres et de ne pas s’être appuyée sur des technologies antécédentes. La société a donc conçu sa propre plateforme sans faire appel aux infrastructures déjà existantes de ses actionnaires<ref>« [http://www.silicon.fr/ou-en-est-cloudwatt-avec-raphael-ferreira-de-enovance-87958.html Où en est Cloudwatt ? Un point avec Raphaël Ferreira d’eNovance] », ''Silicon.fr'', ''Le site des décideurs IT'', 22 juillet 2013, par Yves Grandmontagne</ref>. "''Nous maîtrisons totalement nos choix d'infrastructures, et cela nous donne une totale autonomie vis-à-vis des fournisseurs technologiques avec lesquels nous travaillons''", fait savoir Patrick Starck, président de Cloudwatt<ref>« [http://www.journaldunet.com/solutions/cloud-computing/comparatif-cloudwatt-numergy-clouds-souverains/cloudwatt.shtml Cloudwatt : des offres naissantes misant sur l'Open Source] », ''Journal du Net'', 3 avril 2013, Dominique Filippone</ref>. Il s’agit d’un environnement de cloud Open Source basé sur [[OpenStack]].
+
+=== Le rachat par Orange ===
+Le 20 mars 2015, Orange, actionnaire de Cloudwatt, contrôle l'entreprise à 100 %, en rachetant les parts de [[Thales]] et de la [[Caisse des dépôts et consignations|Caisse des dépôts]]<ref name="100pourcent">{{Article|langue=|auteur1=|titre=Orange bientôt souverain chez Cloudwatt|périodique=L'Usine digitale|numéro=|jour=12|mois=janvier|année=2015|issn=|lire en ligne=http://www.usine-digitale.fr/article/orange-prend-le-controle-de-la-totalite-de-cloudwatt.N320234|pages=}}</ref>.
+
+Le {{1er}} janvier 2016, Cloudwatt fusionne avec Orange Business Services au travers de sa filiale Orange Cloud for Business qui regroupe en France et à l’international l’ensemble des équipes dédiées au management d’infrastructures IT, de cloud computing, d’applications et d’environnements de travail virtualisés.
+
+=== Fermeture et migration ===
+Fin juillet 2019, [[Orange Business Services]] annonce aux utilisateurs de Cloudwatt la fermeture de cette plateforme au 31 janvier 2020. Dans cette communication, les utilisateurs sont invités à migrer vers d’autres services dont la plateforme Flexible Engine<ref>[https://cloud.orange-business.com/flexible-engine/ Flexible Engine] cloud.orange-business.com, le 6 août 2019</ref>. Cette solution qui s’appuie sur une distribution OpenStack, opérée par Orange Business Services est disponible en France comme à l’international.
+
+== Services historiques==
+=== Une architecture Open source===
+Cloudwatt a fabriqué son offre de [[IaaS]] (Infrastructure as a Service) en utilisant la solution communautaire et open source [[OpenStack]]. Le cloud Cloudwatt est utilisable par des APIs OpenStack ce qui permet d’éviter la dépendance vis-à vis d’acteurs proposant des solutions propriétaires. 
+
+Dès sa création, en septembre 2012, Cloudwatt devient membre de la Fondation OpenStack et devient alors la seconde entreprise européenne à intégrer la communauté<ref>« [http://www.lemondeinformatique.fr/actualites/lire-cloudwatt-veut-s-imposer-dans-la-revolution-cloud-50674.html Cloudwatt veut s'imposer dans la révolution cloud] », ''Le Monde Informatique'', 2 octobre 2012, Adrien Geneste</ref>. En tant que « corporate sponsor », Cloudwatt fournit des ressources supplémentaires pour protéger, promouvoir et valoriser la fondation OpenStack. Cloudwatt fait partie aujourd’hui des 30 premiers contributeurs OpenStack<ref>« [http://www.silicon.fr/cloudwatt-parmi-les-30-premiers-contributeurs-openstack-90582.html Cloudwatt parmi les 30 premiers contributeurs OpenStack] », 5 novembre, Christophe Lagane</ref>.
+
+En marge de l’''OpenStack summit'' d’Hong Kong, en novembre 2013, Cloudwatt annonce le premier déploiement du framework [[Hadoop]] sur OpenStack{{Référence nécessaire||date=4 septembre 2020}}. 
+
+=== Les datacenters de Cloudwatt ===
+[[File:Datacenter Cloudwatt.jpg|thumb|Le datacenter Normandie de Cloudwatt à Val-de-Reuil (Eure)|upright=0.75|droite]]
+Les Datacenters de Cloudwatt sont situés à [[Val-de-Reuil]] (Normandie) et à [[Rueil-Malmaison]] (Ile-de-France). Ils sont de classe 4 (Tiers IV) et de classe 3 (Tiers III){{Référence nécessaire||date=4 septembre 2020}}.
+
+=== Le stockage en ligne ===
+Il existe deux façons pour l’utilisateur de gérer son stockage sur Cloudwatt. L’interface du site web accessible par n’importe quel navigateur permet de créer des espaces de stockages, de charger, télécharger et supprimer des fichiers. L’autre possibilité est d’utiliser un logiciel de transfert de fichiers utilisant l’API Swift d’OpenStack, comme [[Cyberduck]] ou Cloudberry<ref>“[http://www.cloudberrylab.com/blog/how-to-sign-up-to-cloudwatt/ How to Sign Up and Start Using CloudWatt Cloud With CloudBerry Backup]”'', Cloudberry Blog''</ref>.
+
+Comme tout service opéré par un Cloud « souverain », les données chargées sur le stockage de Cloudwatt sont localisées en France et opérées par des acteurs sans liens capitalistiques avec des entreprises américaines et, à ce titre, ne sont pas soumises à l’application du Patriot Act{{Référence nécessaire||date=4 septembre 2020}}.
+
+=== Le Compute ===
+Le 30 juin 2014, Cloudwatt annonce l’ouverture de son cloud public souverain complet avec les services « Compute » et « Stockage objet ». Cette offre est disponible auprès des partenaires de Cloudwatt et en ligne sur leur site<ref>« [http://www.zdnet.fr/actualites/cloudwatt-des-applications-ios-et-android-bientot-et-l-iaas-au-premier-semestre-2014-39794855.htm Cloudwatt : des applications iOS et Android bientôt et l'IaaS au premier semestre 2014] », ''ZD Net'', 16 octobre 2013, Christophe Auffray</ref>.
+
+Cloudwatt a déployé les modules [[OpenStack|Openstack]] suivants : Nova (compute), Keystone (identification), Glance (image), Cinder (stockage bloc), Swift (stockage objet), Heat (orchestration), Horizon (console),  Neutron (réseau), Sahara (hadoop) et Magnum (container).
+
+== Une réponse française au Patriot Act et à l’affaire PRISM ==
+
+=== Patriot Act ===
+L’objectif de Cloudwatt est de proposer une alternative aux offres de cloud computing d’acteurs historiques comme [[Amazon]] ou [[Microsoft]]. Ces offres sont soumises au [[Patriot Act]], une loi votée au lendemain des attentats du 11 septembre 2001. Elle permet, entre autres, aux agences gouvernementales américaines comme le [[FBI]] d’accéder aux données stockées sur les serveurs d’entreprises de droit américain, sans notification d’un juge<ref>[http://solutionsauxentreprises.lemonde.fr/cloud-computing/usa-patriot-act-un-risque-majeur-pour-la-confidentialite-des-donnees-dans-le-cloud_a-27-630.html {{langue|en|texte=USA Patriot Act : un risque majeur pour la confidentialité des données dans le Cloud}}], ''lemonde.fr'', 26 mars 2012, Jamal Labed</ref>. Le problème de confidentialité des données que posent ces offres a constitué un frein à l’adoption de solutions de cloud computing pour un grand nombre d’entreprises<ref>« [http://mag.welovesaas.com/index.php/2012/299/ Cloud computing: patriot act et sécurité des données] », We love SaaS, 9 mars 2012, Clément Vouillon</ref>. L’arrivée d’acteurs français dans le domaine du cloud computing ouvre donc de nouvelles opportunités à ces sociétés, mais aussi aux organismes du secteur public.
+
+== Partenariats ==
+=== Partenariat avec Teddy Riner ===
+[[Teddy Riner]] est devenu le partenaire officiel de Cloudwatt en 2012 pour une durée de 5 ans, soit un an après la prochaine olympiade<ref>« [http://www.strategies.fr/actualites/marques/202572W/cloud-watt-choisit-teddy-riner-comme-ambassadeur.html Cloud Watt choisit Teddy Riner comme ambassadeur] », ''Stratégies.fr'', 18 décembre 2012, Fanny le Borgne</ref>. Teddy Riner est apparu dans plusieurs publicités Cloudwatt à la télévision<ref>« [http://sportbuzzbusiness.fr/plus-de-sports/teddy-riner-nouvel-ambassadeur-de-cloudwatt-pub-tv-24110 Teddy Rinner, nouvel ambassadeur de Cloudwatt] », ''Sport Buzz Business'', 22 janvier 2013, Alexandre Bailleul</ref> (LCI, iTélé et BFM TV). Il a également incarné la marque Cloudwatt lors de salons technologiques dont la société était sponsor{{Référence nécessaire||date=4 septembre 2020}}.
+
+=== Partenariats commerciaux ===
+Les partenaires de Cloudwatt sont de plusieurs types :
+* les éditeurs de logiciels
+* les intégrateurs
+* les fournisseurs de matériels et de solutions historiques : [[Dell]] pour les serveurs, [[Netapp]] pour le stockage informatique
+
+=== Adhésion à l’APRIL et engagement auprès du logiciel libre ===
+Jusqu'en 2015, Cloudwatt était adhérente de l’[[April_(association)|APRIL]] association du [[logiciel libre]] en France.
+
+== Capital ==
+Initialement, Cloudwatt était doté d’un capital de 225 millions d’euros avec la répartition des fonds est la suivante : 44,4 % pour Orange, 22,2 % pour Thales, 33,3 % pour la Caisse des Dépôts{{Référence nécessaire||date=4 septembre 2020}}.<br />
+Le 13 janvier 2015, [[Orange (entreprise)|Orange]] et sa filiale [[Orange cloud for business]] ont annoncé leur intention de racheter la totalité de Cloudwatt dont ils détiennent déjà 44,4 % du capital<ref>[http://www.usine-digitale.fr/editorial/en-voulant-racheter-cloudwatt-orange-defie-atos-dans-le-cloud-francais.N307277 annonce et commentaire de l'Usine Nouvelle sur le rachat en cours de Cloudwatt par Orange Cloud for Business]</ref>{{,}}<ref>[http://www.usine-digitale.fr/editorial/en-voulant-racheter-cloudwatt-orange-defie-atos-dans-le-cloud-francais.N307277 En voulant racheter Cloudwatt, Orange défie Atos dans le cloud français] usine-digitale.fr, le 13 janvier 2015</ref>.
+
+Le 20 mars 2015, Orange annonce détenir 100 % du capital de Cloudwatt<ref name="100pourcent"/>. 
+
+== Notes et références ==
+{{Références|colonnes = 2}}
+
+== Sources ==
+*{{Lien web
+ | langue      = fr
+ | auteur      = Ariane Beky
+ | url         = http://www.silicon.fr/cloudwatt-moteur-europeen-cloud-79173.html
+ | titre       = Cloudwatt ambitionne de devenir le moteur européen du cloud
+ | jour        = 2
+ | mois        = octobre
+ | année       = 2012
+ | site        = silicon.fr
+ | éditeur     = 
+ | consulté le = 27 juin 2013
+ | id          = Silicon021012
+}}
+*{{Lien web
+ | langue      = fr
+ | auteur      = Jean Pierre Blettner 
+ | url         = http://www.reseaux-telecoms.net/actualites/lire-un-stratege-pour-le-cloud-souverain-cloudwatt-24973.html
+ | titre       = Un stratège pour le Cloud souverain Cloudwatt
+ | jour        = 18
+ | mois        = octobre
+ | année       = 2012
+ | site        = reseaux-telecoms.net
+ | éditeur     = 
+ | consulté le = 27 juin 2013
+ | id          = RT181012
+}}
+
+=== Lien externe ===
+* {{officiel|https://www.cloudwatt.com/}}
+
+{{Palette Groupe Orange}}
+{{Portail|entreprises|informatique|France|Télécommunications}}
+
+[[Catégorie:Entreprise informatique ayant son siège en France]]
+[[Catégorie:Entreprise fondée en 2012]]
+[[Catégorie:Service de cloud computing]]
+[[Catégorie:Orange (entreprise)]]
+[[Catégorie:Thales]]
+[[Catégorie:Caisse des dépôts et consignations]]

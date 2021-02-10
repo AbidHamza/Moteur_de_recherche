@@ -1,0 +1,132 @@
+{{ébauche|jeu vidéo}}
+{{Infobox Société
+ | couleur boîte             = 
+ | nom et logo               = 
+ | nom                       = Allegorithmic
+ | logo                      = 
+ | légende                   = 
+ | slogan                    = 
+ | forme juridique           = [[Société par actions simplifiée]]
+ | action                    = 
+ | date de création          = 26/05/2003
+ | date de disparition       = 
+ | dates-clés                = 
+ | fondateur                 = Sébastien Deguy
+ | personnages-clés          = 
+ | siège (ville)             = [[Clermont-Ferrand]], [[Puy-de-Dôme]]
+ | siège (pays)              = France
+ | direction actuelle        = Depuis le 13/02/2019 : Jillian Forusz
+ | secteurs d'activités      = Edition de logiciels applicatifs
+
+Ape : 5829C
+ | produits                  = Substance Designer, Substance Painter, Substance Alchemist, Substance Source
+ | société mère              = [[Adobe (entreprise)|Adobe]] (depuis 2019)
+ | société sœur              = 
+ | filiales                  = 
+ | actionnaires              = 
+ | effectif                  = 20 à 49 salariés
+ | nom identifiant           = SIREN
+ | identifiant               = 448 617 753
+ | chiffre d'affaires        = 11 446 300 € au 31/12/2017
+ | évolution du CA           = 
+ | somme du bilan (banques)  = 
+ | primes brut (assurances)  = 
+ | résultat net              = 1 344 700 € au 31/12/2017
+ | évolution du résultat net = 
+ | fonds propres             = 4 554 800 € au 31/12/2017
+ | dette                     = 
+ | capitalisation boursière  = 
+ | site web                  = [https://www.substance3d.com/ substance3d.com]
+ | date de mise à jour       = 22/09/2019
+}}
+'''Allegorithmic''' est une entreprise française de développement de logiciels de création de [[Texture (image de synthèse)|textures]], utilisé notamment dans les domaines du [[jeu vidéo]], du [[film d'animation]] et du [[design]]. Fondée en 2003 à [[Clermont-Ferrand]] par Sébastien Deguy dans le prolongement de ses travaux de recherche, elle dispose aujourd’hui de plusieurs filiales et bureaux de représentation dans le monde, en particulier à [[Los Angeles]], [[Shanghaï]], [[Séoul]], [[Paris]] et [[Lyon]].
+
+== Historique ==
+Sébastien Deguy a fait une thèse d'informatique à l'[[université Blaise-Pascal]] de Clermont-Ferrand sur la modélisation des nuages. Il constate que le logiciel 3D qu'il a mis au point est plus puissant que ceux qui sont utilisés à l'époque dans la production de jeux vidéo ou de films. Il décide de se lancer dans la création d'une entreprise de développement de logiciels exploitant son idée de départ<ref>[https://www.lamontagne.fr/clermont-ferrand/economie/innovation/2018/02/19/sebastien-deguy-l-etudiant-de-clermont-ferrand-devenu-roi-de-l-image-3d-avec-allegorithmic_12745294.html « Sébastien Deguy, l'étudiant de Clermont-Ferrand devenu roi de l'image 3D avec Allegorithmic »], ''La Montagne'', 20 février 2018.</ref> ; c'est ainsi que naît en 2003 Allegorithmic. Son nom est une combinaison d’''algorithme'' et d’''allégorie'' ; son logo unit la forme du symbole mathématique π et d'un oiseau ; l'un et l'autre expriment le fondement de l'entreprise qui est de créer un pont entre la science et la création artistique<ref>[https://www.allegorithmic.com/company/history Site de l'entreprise].</ref>. La société est alors hébergée dans l'école d'ingénieur [[Institut d'informatique d'Auvergne|ISIMA]] puis dans la pépinière d'entreprises [[Pascalis (parc technologique)|Pascalis]]<ref>[https://www.substance3d.com/company/history Historique sur le site d'Allegorithmic]</ref>{{,}}<ref>[https://www.leconnecteur.org/entretien-ca-bouillonne-toujours-pour-frederic-coureau/ Site web Le connecteur - Article du 19 janvier 2018]</ref>. 
+
+Dès l'année suivante, Sébastien Deguy commence à prospecter aux États-Unis, à [[Los Angeles]], et fait des rencontres importantes pour faire connaître les premiers prototypes et produits de l'entreprise. En 2006, de grandes entreprises comme [[NVidia]] et [[Dassault Systèmes]]<ref>Dassault Systèmes entre dans le capital en 2007. ''Le Journal de l'éco'', 21 janvier 2014.</ref> montrent leur intérêt<ref>''La Montagne'', art. cité.</ref>. En 2010 est lancé Substance Designer, appelé à devenir le produit phare de l'entreprise. À partir de 2012, les ventes des logiciels pour l'industrie du jeu vidéo explosent. Un bureau est ouvert à [[Shanghaï]] en 2013<ref>[https://lejournaldeleco.fr/allegorithmic-fete-ses-dix-ans-dexistence-et-simplante-aux-etats-unis-et-en-chine/ « Allegorithmic fête ses dix ans d’existence et s’implante aux États-Unis et en Chine ! »], ''Le Journal de l'éco'', 21 janvier 2014.</ref>. En 2014 sort le logiciel Substance Painter, qui vient couronner la gamme Substance, en permettant d'appliquer commodément les textures créées sur tous types de personnages ou d'objets.
+
+En 2016, l'entreprise est mise en avant par [[Business France]] pour sa campagne Creative France<ref>[http://www.industrie-mag.com/article8928.html « Sébastien Deguy, fondateur d’Allegorithmic »], ''Industrie mag'', mars 2016.</ref>.
+
+Le {{date-|23 janvier 2019}}, l'entreprise est acquise par [[Adobe (entreprise)|Adobe]]<ref>{{Lien web|langue=fr|titre=Adobe : une acquisition dans le secteur des jeux vidÃ©o|url=https://www.boursorama.com/bourse/actualites/adobe-une-acquisition-dans-le-secteur-des-jeux-video-60c2b745ff4f7b10b5e910559e7bb0d5|site=Boursorama|date=2019-01-23|consulté le=2019-01-23}}</ref>.
+
+== Technologie ==
+La société propose plusieurs outils logiciels concentrés sous un même chapeau : la gamme Substance.
+
+Les produits Substance exploitent une technique dite de "[[Texture (image de synthèse)|texturing]] paramétrique" : chaque ''substance'' est un processus de calcul dont le résultat est un ensemble de textures [[image matricielle|bitmap]] (diffuse, normale, spéculaire, etc.). Ces dernières peuvent être utilisées dans n’importe quel logiciel de [[Trois dimensions|3D]] (offline ou temps réel, par exemple dans un jeu vidéo) pour créer un [[shader]] ou matériau. Les substances seront représentées sous forme d’un graphe qui peut être édité dans le logiciel Substance Designer.
+
+L’exécution du processus de calcul des substances dans un logiciel tiers nécessite l’intégration du [[middleware]] Substance Engine. Aujourd’hui, ce dernier est intégré dans un certain nombre de logiciels célèbres tels que [[Autodesk Maya|Maya]] ou [[Unity (moteur de jeu)|Unity]]. 
+
+== Principaux produits ==
+
+=== Substance Alchemist ===
+<br />
+=== Substance Designer ===
+Substance Designer est le produit phare de la société. Ce logiciel, disponible sur [[Windows]] et [[macOS]], est l’outil d’édition des substances.
+
+=== Substance Painter ===
+Logiciel permettant de peindre des matériaux directement sur des objets en trois dimensions.
+
+=== Substance Engine ===
+Ce [[middleware]] permet l’exécution du processus de calcul des textures, travaillant à partir d’un fichier créé avec Substance Designer. Substance Engine est aujourd’hui intégré par défaut dans [[3ds Max]], [[Autodesk Maya|Maya]], Flame, [[Unreal Engine|Unreal Engine 3]], [[Unreal Engine|UDK]], [[Unity (moteur de jeu)|Unity]].
+
+=== Bitmap2Material ===
+Bitmap2Material (B2M) est une substance particulière créée en utilisant Substance Designer. Elle permet de créer automatiquement, à partir d’une seule image d’entrée ([[photographie]], [[peinture (art)|peinture]]), un matériau complet. Puisqu’il s’agit d’une substance, ce processus peut être exécuté dans n’importe quel logiciel comportant le moteur Substance Engine.
+
+=== Substance Player ===
+Application gratuite simple intégrant le Substance Engine et permettant d’exécuter une substance pour obtenir les textures bitmap correspondantes.
+
+=== Substance Hub ===
+Une gamme de 600 substances prêtes à l’emploi.
+
+=== Substance Source ===
+Librairie de matériaux physiquement correct Substance  
+
+== Entreprises ayant utilisé les solutions d'Allegorithmic (liste non exhaustive) ==
+
+* [[Activision]]
+* [[Autodesk]]
+* [[Bigpoint]]
+* [[Candelight Interactive]]
+* [[Codemasters]]
+* [[Creative TD]]
+* [[Criterion Games]]
+* [[Dassault Systemes]]
+* [[Disney Interactive]]
+* [[Funcom]]
+* [[Ikea]]
+* [[Intel]]
+* [[Louis Vuitton]]
+* [[Microsoft]]
+*Marvel
+* [[Naughty Dog]]
+* [[Nvidia]]
+* [[Psychoz]]
+* [[Rockstar Games]]
+
+== Notes et références ==
+{{Références|taille=50}}
+
+== Voir aussi ==
+=== Bibliographie ===
+* [https://lejournaldeleco.fr/allegorithmic-fete-ses-dix-ans-dexistence-et-simplante-aux-etats-unis-et-en-chine/ ''Le Journal de l'éco''], {{date-|21 janvier 2014}} : « Allegorithmic fête ses dix ans d’existence et s’implante aux États-Unis et en Chine ! »
+* [https://www.usine-digitale.fr/article/allegorithmic-la-pme-francaise-qui-detrone-adobe-dans-la-creation-de-textures.N388298 ''L'usine digitale''], {{date-|26 avril 2016}} : « Allegorithmic, la PME française qui détrône Adobe dans la création de textures ».
+* [http://www.industrie-mag.com/article8928.html ''Industrie mag''], {{date-|mars 2016}} : « Sébastien Deguy, fondateur d’Allegorithmic ».
+* [https://www.lemonde.fr/pixels/article/2016/11/29/allegorithmic-la-pepite-clermontoise-qui-equipe-les-meilleurs-jeux-video-du-monde_5040141_4408996.html ''Le Monde''], {{date-|29 novembre 2016}} : « Allegorithmic, la pépite clermontoise qui équipe les meilleurs jeux vidéo du monde ».
+* [https://www.lamontagne.fr/clermont-ferrand/economie/innovation/2018/02/19/sebastien-deguy-l-etudiant-de-clermont-ferrand-devenu-roi-de-l-image-3d-avec-allegorithmic_12745294.html ''La Montagne''], {{date-|20 février 2018}} : « Sébastien Deguy, l'étudiant de Clermont-Ferrand devenu roi de l'image 3D avec Allegorithmic ».
+* '''(en)''' ''[[Animation World Network]]'' : Tom McLean, Jennifer Wolfe et cie ; série d'articles sur Allegorithmic : {{Lire en ligne|lien=https://www.awn.com/tag/allegorithmic|consulté le=}}.
+
+=== Articles connexes ===
+* [[Texture (image de synthèse)]]
+* [[Éditeur de texture]]
+
+=== Liens externes ===
+* [https://www.allegorithmic.com Site de l'entreprise].
+
+{{Portail|entreprises|jeu vidéo|Clermont-Ferrand|imagerie numérique}}
+
+[[Catégorie:Éditeur de logiciel ayant son siège en France]]
+[[Catégorie:Entreprise fondée en 2003]]
+[[Catégorie:Entreprise ayant son siège à Clermont-Ferrand]]
+[[Catégorie:Développeur de jeux vidéo]]
+[[Catégorie:Entreprise de jeux vidéo ayant son siège en France]]
